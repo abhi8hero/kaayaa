@@ -11,7 +11,8 @@ Monitor every AI workflow execution with **OpenTelemetry**, **SigNoz**, and a mo
 ![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Enabled-orange)
 ![SigNoz](https://img.shields.io/badge/SigNoz-Supported-green)
-![License](https://img.shields.io/badge/License-MIT-success)
+![n8n](https://img.shields.io/badge/n8n-Supported-red)
+
 
 </div>
 
