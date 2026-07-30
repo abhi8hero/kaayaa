@@ -115,7 +115,7 @@ The platform integrates with **OpenTelemetry** and **SigNoz** to provide end-to-
 ## 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/abhi8hero/kaayaa
 cd kaayaa
 ```
 
