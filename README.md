@@ -40,7 +40,7 @@ The platform integrates with **OpenTelemetry** and **SigNoz** to provide end-to-
 
 # 🚀 Live Demo
 🔗 Live Dash Demo: https://kaayaa-dashboard.vercel.app/                                              
-🚧 Currently running locally / on vercel / on signoz
+🚧 Currently running locally / on vercel / on signoz                 
 📃 Technical Blog: https://dev.to/abhi-the-great/end-to-end-observability-to-ai-application-using-opentelemetry-and-signoz-13h3
 
 ---
