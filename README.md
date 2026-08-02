@@ -41,6 +41,7 @@ The platform integrates with **OpenTelemetry** and **SigNoz** to provide end-to-
 # 🚀 Live Demo
 🔗 Live Dash Demo: https://kaayaa-dashboard.vercel.app/                                              
 🚧 Currently running locally / on vercel / on signoz
+📃 Technical Blog: https://dev.to/abhi-the-great/end-to-end-observability-to-ai-application-using-opentelemetry-and-signoz-13h3
 
 ---
 
@@ -517,7 +518,7 @@ VITE_SIGNOZ_ENDPOINT=http://localhost:4317
 
 VITE_COLLECTOR_ENDPOINT=http://localhost:4318
 
-VITE_SERVICE_NAME=observeai
+VITE_SERVICE_NAME=kaayaa
 
 VITE_N8N_WEBHOOK=http://localhost:5678/webhook
 ```
